@@ -21,7 +21,7 @@ var (
 )
 
 const (
-	buildVersionString = "0.0.2"
+	buildVersionString = "0.0.0"
 )
 
 // promptForDBPassword will determine the password based on environment vars or, lacking those, a prompt to the user
