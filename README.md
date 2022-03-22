@@ -44,11 +44,11 @@ Commands:
   pwd          pwd
   rm           rm <entry>
   save         save
-  saveas       saveas <file.kdb> [file.key]
+  saveas       saveas <file.kdb>
   search       search <term>
-  select       select [-f] <entry>
   show         show [-f] <entry>
   version      version
+  xk           xk <entry>
   xp           xp <entry>
   xu           xu
   xw           xw
@@ -63,7 +63,7 @@ manages the attachment for a given entry
 Commands:
   create       attach create <entry> <name> <filesystem location>
   details      attach details <entry>
-  get          attach get <entry> <filesystem location>
+  get          attach get <entry> <filesystem location> // ('-' for stdout)
 ```
 
 ## Overview
