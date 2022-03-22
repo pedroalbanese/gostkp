@@ -1,4 +1,4 @@
-# GOSTKP
+# GOST KeePass
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/gostkp/blob/master/LICENSE.md) 
 [![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/gostkp/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/gostkp/releases)
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/gostkp?status.png)](http://godoc.org/github.com/pedroalbanese/gostkp)
