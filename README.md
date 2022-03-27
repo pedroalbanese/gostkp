@@ -11,9 +11,9 @@ This project is a reimplementation of [kpcli](http://kpcli.sourceforge.net/) wit
 Features, such as `search` have been added.
 
 Roll of Algorithms:
-☭ GOST R 34.11-2012 Стрибог (Streebog) hash function (RFC 6986)
-☭ GOST R 34.12-2015 128-bit block cipher Кузнечик (Kuznechik) (RFC 7801)
-☭ GOST R 34.12-2015 64-bit block cipher Магма (Magma)
+- GOST R 34.11-2012 Стрибог (Streebog) hash function (RFC 6986)
+- GOST R 34.12-2015 128-bit block cipher Кузнечик (Kuznechik) (RFC 7801)
+- GOST R 34.12-2015 64-bit block cipher Магма (Magma)
 
 ## Usage
 
