@@ -6,7 +6,7 @@
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/gostkp)](https://golang.org)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/gostkp)](https://github.com/pedroalbanese/gostkp/releases)
 
-This project is a reimplementation of [kpcli](http://kpcli.sourceforge.net/) with a few additional features thrown in. It provides a shell-like interface for navigating a KeePass-like database and manipulating entries. 
+This project is a clone of [kpcli](http://kpcli.sourceforge.net/) with a few additional features thrown in. It provides a shell-like interface for navigating a KeePass-like database and manipulating entries. 
 
 Features, such as `search` have been added.
 
